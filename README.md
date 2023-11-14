@@ -10,32 +10,12 @@ AutoEUServerless 是一个基于腾讯云函数 Serverless 架构的自动化工
 - **验证码识别**：自动识别登录过程中的验证码。
 - **Telegram 通知**：通过 Telegram Bot 发送续期状态通知。
 
-## 使用说明
-大家都应该有一只德鸡,即乌龟壳之后唯一的一个永久免费VPS。  
-但是头疼的是必须每个月要续订,而且本身就是白嫖鸡,难道要再开一个鸡跑脚本来给它续订?  
-于是本项目诞生了,支持使用腾讯云函数或AWS工作流,自动续订你的德鸡并且对接Telegram推送!  
-
-[Dooo.ng个人站点](https://dooo.ng)  
-[Nodeseek主页:@WizisCool](https://www.nodeseek.com/space/8902#/general)  
-
-**⭐️开发不易,如果觉得项目不错,请施舍一个Star!⭐️**  
-**☕喝个咖啡吧!☕**
 ```
 TRC20: TBY7e7YUQCG7wEH3PA8pk6fQPwpshb8Z55
 ```
 
 ## 截图  
 ![Alt text](image/screenshot1.png)
-
-
-## 致谢
-特别感谢以下项目和文章对本项目的启发和帮助：
-- [eu_ex](https://github.com/lw9726/eu_ex)
-- [EUserv_extend](https://github.com/o0oo0ooo0/EUserv_extend)
-
-## 许可
-本项目基于 GPL-3.0 许可协议。
-
 
 ## 如何使用
 1. 新建一个BeautifulSoup层  
